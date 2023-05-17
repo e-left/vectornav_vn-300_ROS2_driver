@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="turtle_vn" exec="turtle_vn" output="screen">
+  	<param from="$(find-pkg-share turtle_vn)/config/vn_config.yaml"/>
+  </node>
+</launch>

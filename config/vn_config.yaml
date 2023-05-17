@@ -1,0 +1,8 @@
+vn_publisher:
+  ros__parameters:
+    baudrate:           921600
+    port:               "/dev/ins"
+    configBor:          true
+    initialLat:         40.57699825538099
+    initialLon:         23.027571201613714
+    publishTf:          true
